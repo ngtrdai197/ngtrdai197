@@ -2,7 +2,7 @@
 
 My name is `Dai`, my acquaintance often call me: **Mouse**. I love **Angular** and **Nodejs**, so I try to find out everything about them. I have a passion for Typescript, I always want to learn to improve my skills.
 
-- 🔭 I am currently working with Angular and Nodejs
+- 🔭 I am currently working with Angular and Nestjs (framework of Nodejs) *It was the best for me*
 - 🌱 I am currently researching on Scully, so I can use it in the future
 - 📫 How to reach me: nguyendai.coder@gmail.com
 
