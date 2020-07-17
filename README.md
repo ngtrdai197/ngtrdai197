@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Dai, my acquaintance often call me: Mouse.\n 
-I love Angular and Nodejs, so I try to find out everything about them.\n
-I have a passion for Typescript, I always want to learn to improve my skills.
+- My name is Dai, my acquaintance often call me: Mouse.
+- I love Angular and Nodejs, so I try to find out everything about them.
+- I have a passion for Typescript, I always want to learn to improve my skills.
 
 - 🔭 I am currently working with Angular and Nodejs
 - 🌱 I am currently researching on Scully, so I can use it in the future
