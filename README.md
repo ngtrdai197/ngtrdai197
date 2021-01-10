@@ -5,6 +5,7 @@ My name is `Dai`, my acquaintance often call me: **Mouse**. I love **Angular** a
 - 🔭 I am currently working with Angular and Nestjs (framework of Nodejs) *It was the best for me*
 - 🌱 I am currently researching on Scully, so I can use it in the future
 - 📫 How to reach me: nguyendai.coder@gmail.com
+- 😄 Visit my personal website: https://nguyendai.dev/
 
 <!--
 **ngtrdai197/ngtrdai197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
