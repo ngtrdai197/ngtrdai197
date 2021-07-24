@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is `Dai`, my acquaintance often call me: **Mouse**. I love **Angular** and **Nodejs**, so I try to find out everything about them. I have a passion for Typescript, I always want to learn to improve my skills.
+My name is `Dai Nguyen`, my acquaintance often call me: **Mouse**. I love **Angular** and **Nodejs**, so I trying to find out everything about them. I have a passion for Typescript, I always wants to learning to improve my skills.
 
-- 🔭 I am currently working with Angular and Nestjs (framework of Nodejs) *It was the best for me*
-- 🌱 I am currently researching on Scully, so I can use it in the future
+- 🔭 I am currently working with ReactJs and Nestjs (framework of Nodejs) *It was the best for me*
+- 🌱 I am currently researching about design pattern and a little bit microservice, so I can use it in the future
 - 📫 How to reach me: nguyendai.coder@gmail.com
 - 😄 Visit my personal website: https://nguyendai.dev/
 
