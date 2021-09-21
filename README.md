@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is `Dai Nguyen`, my acquaintance often call me: **Mouse**. I love **Angular** and **Nodejs**, so I trying to find out everything about them. I have a passion for Typescript, I always wants to learning to improve my skills.
+My name is `Dai Nguyen`,
+I am a developer who is highly interested in TypeScript. 
+My tech stack has been full-stack TS such as Angular, React with TypeScript and NestJS.
 
-- 🔭 I am currently working with ReactJs and Nestjs (framework of Nodejs) *It was the best for me*
+- 🔭 I am currently working with ReactJs and Nestjs
 - 🌱 I am currently researching about design pattern and a little bit microservice, so I can use it in the future
 - 📫 How to reach me: nguyendai.coder@gmail.com
 - 😄 Visit my personal website: https://nguyendai.dev/
