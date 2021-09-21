@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is `Dai Nguyen`,\I am a developer who is highly interested in TypeScript.\My tech stack has been full-stack TS such as Angular, React with TypeScript and NestJS.
+My name is `Dai Nguyen`,<br />I am a developer who is highly interested in TypeScript.<br />My tech stack has been full-stack TS such as Angular, React with TypeScript and NestJS.
 
 - 🔭 I am currently working with ReactJs and Nestjs
 - 🌱 I am currently researching about design pattern and a little bit microservice, so I can use it in the future
