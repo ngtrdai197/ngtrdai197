@@ -8,5 +8,6 @@ I am a developer who is highly interested in TypeScript.<br />My tech stack has 
 - 🎉 I am currently researching about design pattern and microservice, so I can use it in the future
 - 📫 How to reach me: nguyendai.coder@gmail.com
 - 😄 Visit my personal website: https://nguyendai.dev/
+- 💼 Visit my CV website: https://cv.nguyendai.dev/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtrdai197&theme=nightowl&show_icons=true)
