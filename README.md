@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is `Dai Nguyen`,
-<br />
-Currently I am working at <a href="https://www.cimbbank.com.vn/vi/personal/home.html" target="_blank">CIMB</a>.
+My name is `Dai Nguyen`.Currently I am working at <a href="https://www.cimbbank.com.vn/vi/personal/home.html" target="_blank">CIMB</a>.
 <br />
 I am a developer who is highly interested in TypeScript.<br />My tech stack has been full-stack TS such as Angular, React.Js with TypeScript and Nest.JS.
 
