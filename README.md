@@ -66,6 +66,8 @@ I am a developer who is highly interested in TypeScript.<br />My tech stack has 
 
 <br />
 <br />
+<br />
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtrdai197&theme=nightowl&show_icons=true)
 
