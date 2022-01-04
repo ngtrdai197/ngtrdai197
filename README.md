@@ -20,6 +20,7 @@ I am a developer who is highly interested in TypeScript.<br />My tech stack has 
 [<img align="left" alt="Dai Nguyen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dai Nguyen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Dai Nguyen | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Dai Nguyen | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg" />][skype]
 
 <br />
 
@@ -76,4 +77,5 @@ I am a developer who is highly interested in TypeScript.<br />My tech stack has 
 [instagram]: https://www.instagram.com/dainguyen.iammm/
 [linkedin]: https://www.linkedin.com/in/ngtrdai197/
 [facebook]: https://www.facebook.com/ngtrdai197
+[skype]: skype:ngtrdai290197?chat
 
