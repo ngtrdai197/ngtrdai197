@@ -11,6 +11,7 @@ I am a developer who is highly interested in TypeScript.<br />My tech stack has 
 - 💼 Visit my CV website: https://cv.nguyendai.dev/
 
 <br />
+
 ### Connect with me:
 
 [<img align="left" alt="Dai Nguyen" width="22px" src="https://nguyendai.dev/favicon.ico" />][website]
