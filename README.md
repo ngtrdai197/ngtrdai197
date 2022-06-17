@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is `Dai Nguyen`. Currently, I am working and participating in software development, as a software engineer at <a href="https://www.cimbbank.com.vn/vi/personal/home.html" target="_blank">CIMB Bank Vietnam</a>.
+My name is `Dai Nguyen`. Currently, I am contributing to the development of a cryptocurrency exchange as a software engineer at <a href="https://cryptopie-labo.com/" target="_blank">CPL</a>.
 <br />
 I am a developer who is highly interested in TypeScript.<br />My tech stack has been full-stack TS such as Angular, React.Js with TypeScript and Nest.JS.
 
-- 💻 I am currently working with React.Js / Flutter / Nest.Js
+- 💻 I am currently working with Nest.Js
 - 🎉 I am currently researching about design pattern and microservice, so I can use it in the future
 - 📫 How to reach me: nguyendai.coder@gmail.com
 - 😄 Visit my personal website: https://nguyendai.dev/
