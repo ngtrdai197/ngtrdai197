@@ -5,8 +5,7 @@ My name is `Dai Nguyen`. Currently, I am contributing to the development of a cr
 I am a developer who is highly interested in TypeScript.<br />My tech stack has been full-stack TS such as Angular, React.Js with TypeScript and Nest.JS.
 
 - 💻 I am currently working with Nest.Js
-- 💻 I am learning Go
-- 🎉 I am currently researching about design pattern and microservice, so I can use it in the future
+- 💻 I am learning Go, and too many things I wants learn in this year 🔥
 - 📫 How to reach me: nguyendai.coder@gmail.com
 - 😄 Visit my personal website: https://nguyendai.dev/
 - 💼 Visit my CV website: https://cv.nguyendai.dev/
