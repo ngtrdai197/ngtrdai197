@@ -6,7 +6,7 @@ I am a developer who is highly interested in TypeScript.<br />My tech stack has 
 
 - 💻 I am currently working with Nest.Js
 - 💻 I am learning Go, and too many things I wants learn in this year 🔥
-- 📫 How to reach me: nguyendai.coder@gmail.com
+- 📫 How to reach me: dainguyen.iammm@gmail.com
 - 😄 Visit my personal website: https://nguyendai.dev/
 - 💼 Visit my CV website: https://cv.nguyendai.dev/
 
@@ -40,9 +40,6 @@ I am a developer who is highly interested in TypeScript.<br />My tech stack has 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
-
 
 <br />
 <br />
