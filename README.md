@@ -26,7 +26,7 @@ I am a developer who is highly interested in TypeScript.<br />My tech stack has 
 ### Languages and Tools:
 
 
-<img align="left" alt="Golang" width="26px" src="https://avatars.githubusercontent.com/u/756065?v=4" />
+<img align="left" alt="Golang" width="26px" src="[https://avatars.githubusercontent.com/u/756065?v=4](https://avatars.githubusercontent.com/u/4314092?s=200&v=4)" />
 
 <img align="left" alt="Nest.Js" width="26px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" />
 
