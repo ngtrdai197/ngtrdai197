@@ -10,8 +10,6 @@ I am a developer who is highly interested in TypeScript.<br />My tech stack has 
 - 😄 Visit my personal website: https://nguyendai.dev/
 - 💼 Visit my CV website: https://cv.nguyendai.dev/
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="Dai Nguyen" width="22px" src="https://nguyendai.dev/favicon.ico" />][website]
@@ -24,7 +22,6 @@ I am a developer who is highly interested in TypeScript.<br />My tech stack has 
 <br />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Golang" width="26px" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" />
 
@@ -44,8 +41,6 @@ I am a developer who is highly interested in TypeScript.<br />My tech stack has 
 
 <img align="left" alt="React.Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<br />
-<br />
 <br />
 <br />
 
