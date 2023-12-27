@@ -1,23 +1,23 @@
 ### Hi there 👋
 
-My name is `Dai Nguyen`. Currently, I am contributing to the development of a cryptocurrency exchange as a software engineer at <a href="https://cryptopie-labo.com/" target="_blank">CPL</a>.
+My name is Dai Nguyen. Currently, I am contributing to the development of a digital transportation, delivery, and payment product using electric vehicles as a backend engineer at <a href="https://www.xanhsm.com/" target="_blank">Xanh SM</a>.
 <br />
-I am a developer who is highly interested in TypeScript.<br />My tech stack has been full-stack TS such as Angular, React.Js with TypeScript and Nest.JS.
+I am a developer who is highly interested in Go/TypeScript.<br />My tech stack: Golang, and full-stack TS like NestJs, Angular, ReactJs with Typescript and things around it.
 
-- 💻 I am currently working with Nest.Js
-- 💻 I am learning Go, and too many things I wants learn in this year 🔥
+- 💻 I am currently working with Golang
+- 💻 I am learning Devops and too many things I want to learn this year 🔥
 - 📫 How to reach me: dainguyen.iammm@gmail.com
-- 😄 Visit my personal website: https://nguyendai.dev/
+- 😄 Visit my website: https://nguyendai.dev/
 - 💼 Visit my CV website: https://cv.nguyendai.dev/
 
 ### Connect with me:
 
 [<img align="left" alt="Dai Nguyen" width="22px" src="https://nguyendai.dev/favicon.ico" />][website]
 [<img align="left" alt="Dai Nguyen | My CV" width="22px" src="https://nguyendai.dev/favicon.ico" />][my-cv]
-[<img align="left" alt="Dai Nguyen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Dai Nguyen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dai Nguyen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Dai Nguyen | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Dai Nguyen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="Dai Nguyen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="Dai Nguyen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="Dai Nguyen | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
 
 <br />
 
