@@ -5,6 +5,7 @@ I am working as a backend engineer at <a href="https://www.xanhsm.com/" target="
 <br />
 The product provides smart car booking and transportation services, using Vinfast electric cars/motorbikes.
 <br />
+<br />
 I am a developer who is highly interested in Go/TypeScript.<br />My tech stack: Golang, and full-stack TS like NestJs, Angular, ReactJs with Typescript and things around it.
 
 - 💻 I am currently working with Golang
