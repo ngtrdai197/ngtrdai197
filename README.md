@@ -43,10 +43,6 @@ I am a developer who is highly interested in Go/TypeScript.<br />My tech stack: 
 
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
 
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-
-<img align="left" alt="React.Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
 <br />
 <br />
 
